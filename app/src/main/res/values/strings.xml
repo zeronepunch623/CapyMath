@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="logo_desc">Home logo</string>
+    <string name="capy_icon">Capy icon</string>
+    <string name="tv_equal">=</string>
+    <string name="tv_add">+</string>
+
+    <!-- tv_Instruction  -->
+    <string name="instruction_More">Which has MORE capybaras?</string>
+    <string name="instruction_Less">Which has LESS capybaras?</string>
+    <string name="instruction_Asc">Pick from the LESS to the MOST capys!</string>
+    <string name="instruction_Desc">Pick from the MOST to the LESS capys!</string>
+    <string name="instruction_Compose">Pick to form THIS NUMBER of capys!</string>
+
+    <!--  tv_Message  -->
+    <string name="message_Correct">You are right!</string>
+    <string name="message_Wrong">Oh no! Try again~</string>
+    <string name="message_Repeat">This is already picked!</string>
+    <string name="message_Empty">Nothing to be deleted!</string>
+
+    <!-- Button  -->
+    <string name="bt_next">Next Level</string>
+    <string name="bt_home">Home</string>
+    <string name="bt_compare">Compare numbers</string>
+    <string name="bt_order">Order numbers</string>
+    <string name="bt_compose">Compose numbers</string>
+    <string name="bt_delete">Delete input</string>
+
+</resources>
